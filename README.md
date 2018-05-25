@@ -4,10 +4,9 @@ Restaurant Reviews App
 #### Table of Contents
 
 * [How to Run](#howToRun)
-* [Project Overview](#projectOverview)
-* [Specification](#specification)
-* [What do I do from here?](#whatDoIDoFromHere?)
-* [Note about ES6](#noteAboutES6)
+* [Project Overview](#ProjectOverview)
+* [Specification](#Specification)
+* [Note about ES6](#NoteaboutES6)
 
 ## How to Run
 1. Download or clone the repository to your computer from this link: https://github.com/selincam/MwsRestaurantStage1.
